@@ -1,0 +1,70 @@
+[32mINFO    [0m -----selenium------:Logs.py:43 启动chrome浏览器,耗时:1.294863224029541秒
+[32mINFO    [0m -----selenium------:Logs.py:43 打开地址http://129.204.147.168/haidao,耗时:5.934171915054321秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,注册,耗时:0.022806644439697266秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,注册,耗时:0.6113505363464355秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,username,耗时:0.02516484260559082秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,username,耗时:0.01018834114074707秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,username,laowang1447719,耗时:0.26758575439453125秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,password,耗时:0.017825603485107422秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,password,耗时:0.016872167587280273秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,password,123123,耗时:0.2896251678466797秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,pwdconfirm,耗时:0.012735366821289062秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,pwdconfirm,耗时:0.02033853530883789秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,pwdconfirm,123123,耗时:0.24212956428527832秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,email,耗时:0.0166168212890625秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,email,耗时:0.016460895538330078秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,email,6770123456@qq.com,耗时:0.29874539375305176秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,mobile,耗时:0.011988639831542969秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,mobile,耗时:0.02016472816467285秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,mobile,17632518756,耗时:0.2876718044281006秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,dosubmit,耗时:0.012433290481567383秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素name,dosubmit,耗时:0.20381760597229004秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[1]/div/ul[2]/li[1]/a,耗时:0.028934001922607422秒
+[32mINFO    [0m -----selenium------:Logs.py:43 获取文本xpath,/html/body/div[1]/div/ul[2]/li[1]/a,耗时:0.07713842391967773秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,返回商城首页,耗时:0.029100418090820312秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,返回商城首页,耗时:9.4872465133667秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[6]/div[1]/div/ul/li[1]/div[1]/a/img,耗时:0.4020688533782959秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/div[6]/div[1]/div/ul/li[1]/div[1]/a/img,耗时:3.1846227645874023秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,立即购买,耗时:0.04446887969970703秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,立即购买,耗时:0.18159055709838867秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[3]/div[2]/dl[1]/dd/div/a,耗时:0.7488813400268555秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/div[3]/div[2]/dl[1]/dd/div/a,耗时:0.8935842514038086秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[7]/div/table/tbody/tr[2]/td/div/iframe,耗时:0.02016139030456543秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换框架xpath,/html/body/div[7]/div/table/tbody/tr[2]/td/div/iframe,耗时:0.5558192729949951秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/form/div[1]/ul/li[1]/div/div/div[2]/div[1],耗时:0.028824567794799805秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/form/div[1]/ul/li[1]/div/div/div[2]/div[1],耗时:0.7528181076049805秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,广西,耗时:0.039490461349487305秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,广西,耗时:0.5517103672027588秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,南宁,耗时:0.0386810302734375秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,南宁,耗时:0.49561524391174316秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,西乡塘,耗时:0.04282093048095703秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,西乡塘,耗时:0.4998142719268799秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,西乡塘街道,耗时:0.04578280448913574秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,西乡塘街道,耗时:0.6890606880187988秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,address,耗时:0.0288088321685791秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,address,耗时:0.012599468231201172秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,address,榕华大厦花椒青年公寓,耗时:0.27701497077941895秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,name,耗时:0.012488842010498047秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,name,耗时:0.02041149139404297秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,name,王五,耗时:0.2645986080169678秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,mobile,耗时:0.01642298698425293秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,mobile,耗时:0.0180356502532959秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,mobile,13888858974,耗时:0.2891066074371338秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,zipcode,耗时:0.016162872314453125秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,zipcode,耗时:0.021051645278930664秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,zipcode,530000,耗时:0.29030752182006836秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素id,hold,耗时:0.016312122344970703秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素id,hold,耗时:0.36864805221557617秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换默认框架,耗时:0.004225254058837891秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,货到付款,耗时:0.6581587791442871秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,货到付款,耗时:0.8531661033630371秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[3]/div[2]/div[1]/div/div[1]/div/input,耗时:0.02280402183532715秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[3]/div[2]/div[1]/div/div[1]/div/input,耗时:0.021899938583374023秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容xpath,/html/body/div[3]/div[2]/div[1]/div/div[1]/div/input,速速发货,耗时:0.24179530143737793秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,提交订单,耗时:0.017838716506958008秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,提交订单,耗时:0.2035665512084961秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[3]/div[2]/div[1]/p[1]/span,耗时:0.4343583583831787秒
+[32mINFO    [0m -----selenium------:Logs.py:43 获取文本xpath,/html/body/div[3]/div[2]/div[1]/p[1]/span,耗时:0.4838557243347168秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[3]/div[2]/div[1]/p[1]/span,耗时:0.019217252731323242秒
+[32mINFO    [0m -----selenium------:Logs.py:43 获取文本xpath,/html/body/div[3]/div[2]/div[1]/p[1]/span,耗时:0.0521547794342041秒
+[32mINFO    [0m -----selenium------:Logs.py:43 关闭浏览器,耗时:2.1951990127563477秒
